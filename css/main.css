@@ -1,3 +1,7 @@
 .background-image {
   background-image: url("/images/bg_1.jpg");
 }
+
+p {
+  text-align: justify;
+}
