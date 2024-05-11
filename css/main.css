@@ -5,3 +5,7 @@
 p {
   text-align: justify;
 }
+
+.background-image__about {
+  background-image: url("/images/about.jpg");
+}
